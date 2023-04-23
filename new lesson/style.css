@@ -1,0 +1,195 @@
+.header{
+    background-color:  #000;
+    display: flex;
+    flex-direction: column;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    color: white;
+    background-color: rgb(162, 120, 14);
+
+}
+
+.ul{
+    list-style: none;
+    display: flex;
+
+}
+
+.headerimg{
+    display: flex;
+    width: 176px;
+    height: 40px;
+
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+li{
+    padding-right: 24px;
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 54px;
+    margin-top: 60px;
+}
+
+
+.text{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 35px;
+    position: absolute;
+    top: 145px;
+    left: 45px;
+}
+
+.texttop{
+    position: relative;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 10px;
+
+}
+
+.block1{
+    display: flex;
+    justify-content: center;
+    margin-top: 74px;
+} 
+
+.m1{
+    position: absolute;
+    top: -20px
+}
+
+.luke{
+    position: absolute;
+    top: -50px;
+    left: 50px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+
+}
+
+.data{
+    position: absolute;
+    top: -3px;
+    left: 50px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+
+}
+
+.whitebox{
+    height: 400px;
+    width: 400px;
+    background: white;
+
+}
+
+.bl1{
+    margin-top: -40px;
+}
+
+.wh{
+    display: flex;
+    justify-content: center;
+
+}
+
+.whitebox{
+    width: 800px;
+    height: 170px;
+}
+
+.bl2{
+    margin-top: -40px;
+}
+
+.block2{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+} 
+
+
+.texttop2{
+    position: relative;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 10px;
+
+}
+
+
+
+.text2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 35px;
+    position: absolute;
+    top: 145px;
+    left: 45px;
+}
+
+.whtext{
+    color: black;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.foot{
+    height: 152px;
+    background: #000;
+    color: #8B8B8B;
+}
+
+
+.fblock{
+    border: 1px solid black;
+    height: 150px;
+    align-items: center;
+}
+
+.ftext{
+    margin-top: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ftext2{
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+font{
+    color: #8D4FDB;
+    margin-left: 8px;
+    margin-right: 8px;
+}
